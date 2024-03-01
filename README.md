@@ -1,4 +1,4 @@
-# Le Kube
+# Le Kube (School Electronic Project) 
 Implementation of an IoT solution for growing plants.\
 Development of the Bill of Materials (BOM), Specification Document, and PCB Fabrication. \
 Electrical schematics, circuit design, and component soldering. \
