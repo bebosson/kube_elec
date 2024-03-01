@@ -1,7 +1,7 @@
 # Le Kube
 Implementation of an IoT solution for growing plants.\
 Development of the Bill of Materials (BOM), Specification Document, and PCB Fabrication. \
-Electrical schematics, circuit design, and component soldering. \ 
+Electrical schematics, circuit design, and component soldering. \
 Firmware development in C for Atmega328p and ESP328p microcontrollers, along with an Adafruit screen. \
 Implementation of UART, SPI, and I2C protocols, AT command usage, EEPROM memory handling, timers, and interrupts. \
 LAMP stack setup on Raspberry Pi with JavaScript and MySQL solutions. \
