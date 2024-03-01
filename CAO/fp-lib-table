@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Le_kube)(type KiCad)(uri ${KIPRJMOD}/Le_kube.pretty)(options "")(descr ""))
+)

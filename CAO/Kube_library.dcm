@@ -1,0 +1,96 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 128x64_OLED
+D Generic connector, single row, 01x30, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP AP2112K-3.3
+D The AP2112 is CMOS process low dropout linearregulator with enable function, the regulator deliversa guaranteed 600mA (min.) continuous load current.
+$ENDCMP
+#
+$CMP Barrel_Jack_Switch
+D DC Barrel Jack with an internal switch
+K DC power barrel jack connector
+F ~
+$ENDCMP
+#
+$CMP Conn_01x06_Male
+D Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Crystal
+D Two pin crystal
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP D
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP ICM7555xB
+D CMOS General Purpose Timer, 555 compatible, SOIC-8
+K single timer 555
+F http://www.intersil.com/content/dam/Intersil/documents/icm7/icm7555-56.pdf
+$ENDCMP
+#
+$CMP J1
+D Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP LM555xM
+D Timer, 555 compatible, SOIC-8
+K single timer 555
+F http://www.ti.com/lit/ds/symlink/lm555.pdf
+$ENDCMP
+#
+$CMP LMC555xM
+D CMOS Timer, 555 compatible, SOIC-8
+K single timer 555
+F http://www.ti.com/lit/ds/symlink/lmc555.pdf
+$ENDCMP
+#
+$CMP MC1455B
+D Timer, 555 compatible, SOIC-8
+K single timer 555
+F https://www.onsemi.com/pub/Collateral/MC1455-D.PDF
+$ENDCMP
+#
+$CMP NA555D
+D Precision Timers, 555 compatible, SOIC-8
+K single timer 555
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP PROBE
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP SA555D
+D Precision Timers, 555 compatible, SOIC-8
+K single timer 555
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP SE555D
+D Precision Timers, 555 compatible, SOIC-8
+K single timer 555
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TLC555xD
+D Single LinCMOS Timer, 555 compatible, SOIC-8
+K single timer 555
+F http://www.ti.com/lit/ds/symlink/tlc555.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Kube_library)(type Legacy)(uri ${KIPRJMOD}/Kube_library.lib)(options "")(descr ""))
+  (lib (name Le_kube_screen_oled)(type Legacy)(uri ${KIPRJMOD}/Le_kube_screen_oled.lib)(options "")(descr ""))
+  (lib (name Le_kube-rescue)(type Legacy)(uri ${KIPRJMOD}/Le_kube-rescue.lib)(options "")(descr ""))
+)

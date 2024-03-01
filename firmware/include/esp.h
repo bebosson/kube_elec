@@ -1,0 +1,1 @@
+void    esp_send_data(char *g_lux, char *g_temp, char *g_mois);
